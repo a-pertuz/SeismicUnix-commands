@@ -2,7 +2,7 @@
 #!/bin/bash
 
 
-echo -e "\n **SEGY-BOOST** \n"
+echo -e "\n **SU-PROCESSOR** \n"
 
 echo -e "Version 27-02-2024"
 
